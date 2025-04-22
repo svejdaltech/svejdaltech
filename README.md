@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mcadapis
+- 👋 Hi, I’m Laurits Svejdal Bertelsen
 - 👀 I’m interested in optimizing the human experience
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a food recipe platform
+- 🌱 I’m currently learning devops
 - 📫 How to reach me laurits@svejdaltech.dk
 
 <!---
