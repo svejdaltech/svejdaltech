@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Laurits Svejdal Bertelsen
 - 👀 I’m interested in optimizing the human experience
 - 🌱 I’m currently learning devops
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/svejdal)
+- 📫 Visit my [webpage](https://www.svejdaltech.dk)
 
 <!---
 mcadapis/mcadapis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
